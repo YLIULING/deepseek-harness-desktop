@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-portable-manual/
+share-staging/
+*.zip
+*.asar
+*.log
+test.png
+icon-preview.png
+icon-whale.png
